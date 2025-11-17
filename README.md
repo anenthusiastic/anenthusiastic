@@ -1,244 +1,74 @@
-<p align="center">
-<a href="https://github.com/onuralpszr"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=2000&color=4A71D9&center=true&vCenter=true&width=435&lines=Hi+there%F0%9F%91%8B!+I+am+Onuralp;Nice+to+meet+you!" alt="Typing SVG" /></a>
-</p>
+Suleyman Mercan — Full-Stack Developer & DevOps Engineer
+<p align="center"> <a href="https://github.com/slymanmrcan"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=2000&color=4A71D9&center=true&vCenter=true&width=520&lines=Welcome+to+SMTechLab+Ecosystem;Full-Stack+Developer+%7C+DevOps+Engineer;Next.js+%7C+.NET+%7C+Terraform+%7C+Cloudflare+%7C+Oracle+ARM" /> </a> </p> <p align="center"> <a><img alt="GitHub Followers" src="https://img.shields.io/github/followers/slymanmrcan?style=for-the-badge"></a> <a><img alt="GitHub Stars" src="https://img.shields.io/github/stars/slymanmrcan?style=for-the-badge"></a> <a href="https://www.linkedin.com"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a> </p>
+🚀 Who Am I?
 
-<p align="center">
-    <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/onuralpszr">
-    <a href="https://www.linkedin.com/in/osezer/"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-0A66C2?logo=Linkedin&logoColor=white"></a>
-    <a href="https://user-badge.committers.top/turkey_public/onuralpszr">
-    <img alt="commiter" src="https://user-badge.committers.top/turkey_public/onuralpszr.svg" alt="committers.top badge"> </a>
-    <a href="https://huggingface.co/onuralpszr"><img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-FF9A00?logo=HuggingFace&logoColor=white"></a>
-</p>
+Ben Suleyman, nam-ı diğer Efendimiz:
+SaaS platformları, DevOps otomasyonları ve kendi markam olan SMTechLab ekosistemini oluşturan full-stack bir geliştiriciyim.
 
-<p align="left">
+Profesyonel ilgi alanlarım:
 
-👋 **Greetings Everyone!**
+🟦 Next.js / React ile modern frontend sistemleri
 
-I'm **Onuralp**, a seasoned **Senior ML Engineer / Software Engineer @Ultralytics** with expertise in **Python 🐍**, **Kotlin 📱**, **C++ ⚙️**, and **Rust 🦀**.  
-My passion lies in the dynamic fields of **Computer Vision 👁️**, **Machine Learning 🤖**, and **Deep Learning 🧠**. Beyond development, I have a strong foundation in **DevOps** and **MLOps**, ensuring seamless deployment, automation, and scalability of cutting-edge solutions 🚀.
+🟩 ASP.NET Core 8/9 ile sağlam backend mimarileri
 
-### 🐧 Open Source & Community
+☁️ DevOps, CI/CD, GitHub Actions, Terraform, Infrastructure-as-Code
 
-I am a long-term [**Contributor and Mindshare Member, Fedora KDE SIG Member, Fedora Website and Apps Team Member, and RPM Packager**](https://fedoraproject.org/wiki/User:onuralpszr) at the **Fedora Project**. I am also an **Organizer and Speaker** at [**GDG Samsun**](https://github.com/gdgsamsun), where I share insights on **Deep Learning**, **Machine Learning**, **Computer Vision**, and **Vision-Language Models (VLMs)**.
+🧱 Self-hosted platformlar (Jitsi, WireGuard, Mattermost, Revolt, Nextcloud)
 
-In addition to my community work, I contribute to a variety of **FLOSS** and **OSS** projects across GitHub, GitLab, and Pagure always aiming to build together and make open source a better place for everyone.
+🛰 Oracle Cloud ARM üzerinde düşük maliyetli yüksek performanslı sistemler
 
-### 🔍 Professional Work
+🟦 Cloudflare R2 + S3 Infrastruktur
 
-On the backend, I primarily use **Python**, while on the mobile side, I work with **Kotlin** and **Flutter**, leveraging Google technologies such as [ARCore](https://developers.google.com/ar), [MediaPipe](https://mediapipe.dev/), [Firebase](https://firebase.google.com/), [FlatBuffers](https://flatbuffers.dev/), [ONNX Runtime](https://onnxruntime.ai/), and [ncnn](https://github.com/Tencent/ncnn).  
+🔐 Network, VPN, Reverse Proxy, SSL automation
 
-On the ML side, I work extensively with [Ultralytics](https://github.com/ultralytics/ultralytics), where I am a **Senior Machine Learning Engineer**, developing and maintaining cutting-edge computer vision tools and YOLO models. My primary deep learning framework is **[PyTorch](https://pytorch.org/)**, which I use for model training, fine-tuning, and deployment workflows.
+Benim için yazılım:
+Backend + Frontend + DevOps + Cloud + Automation tek bir dairede birleşen mimari bütünlük işidir.
 
-I also contribute to related open-source projects such as [ExecuTorch](https://github.com/pytorch/executorch) an efficient on-device inference framework from **PyTorch**, and [ONNXSlim](https://github.com/inisis/OnnxSlim) a lightweight ONNX optimization toolkit.  
+🧩 Active Projects (SMTechLab Ecosystem)
+🔹 PrivFlow — Secure Workflow Platform
 
-In addition, I have experience with other frameworks like [TensorFlow](https://www.tensorflow.org), [TensorBoard](https://www.tensorflow.org/tensorboard), [Keras](https://keras.io/), and [JAX](https://github.com/google/jax), which I occasionally use for experimentation and cross-framework integration.  
+ASP.NET Core 8 • PostgreSQL • Redis • Clean Architecture • Role-based Access
+→ Çok katmanlı kurumsal backend sistemi.
 
-I also use the **Unity** engine for creating **AR** and **ML** applications.
+🔹 Feedback App (Full Stack)
 
-### 🧠 Open Source Projects
+Next.js 15 • Shadcn • TypeScript • Tailwind
+→ Multi-mode feedback SaaS platformu.
 
-In addition to my diverse skill set, I am actively contributing and co-maintaner to a computer vision project named [sahi](https://github.com/obss/sahi) is an open-source project that provides a simple and efficient way to perform slicing-based inference for object detection models. It is designed to work with various deep learning frameworks and models, making it a versatile tool for computer vision tasks. In past I was a co-maintaner to [Supervision](https://supervision.roboflow.com/). [Supervision](https://supervision.roboflow.com/) is dedicated to crafting reusable computer vision tools tailored to a wide array of needs. These projects are embodies my commitment to advancing the field of computer vision, offering robust solutions that empower developers and researchers alike.
+🔹 Admin Template Starter (Next.js 15)
 
-I am also contributing various FLOSS and OSS projects around GitHub/Gitlab/Pagure and other platforms to make everyone happy and doing better projects together. 
+Kurumsal paneller için production-grade admin template.
 
-### 🌱 Hacktoberfest Journey
+🔹 IaC Fraternity — GitHub Automation via Terraform
 
-I’ve proudly participated in **Hacktoberfest** every year since **2022**, completing four consecutive years (2022, 2023, 2024, 2025).  
-Through this journey, I’ve contributed dozens of PRs, met inspiring developers from around the world, and grown both technically and personally.  
+Repos, teams, branch protection, CODEOWNERS → hepsi otomatik.
 
-💚 For me, Hacktoberfest isn’t just about code — it’s about **people, learning, and giving back to the community**. I’m also part of the **Holopin x Hacktoberfest: 10 Badge Club**, celebrating those who’ve contributed continuously since 2022. And yes, somewhere out there, **a tree is growing in my name** — a small but meaningful reminder that code can make a difference beyond the screen 🌍.
+🔹 SMTechLab Infrastructure (Self-hosted)
 
-### 🧩 Let’s Connect
+Docker Compose tabanlı:
+WireGuard, Mattermost, Jitsi, Nextcloud, Revolt, Home Assistant, Pi-hole, vs.
 
-I’m always open to collaborating, contributing, or just talking about open source, computer vision, and AI.  
-Feel free to reach out or check out my latest work here on GitHub! 🚀
+🛠 Tech Arsenal
+🔷 Languages
+<p> <img src="https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=white"> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white"> </p>
+🔷 Backend & Infra
+<p> <img src="https://img.shields.io/badge/.NET%20Core-512BD4?logo=dotnet&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white"> <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white"> <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white"> <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white"> <img src="https://img.shields.io/badge/GitHub%20Actions-000000?logo=githubactions&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"> </p>
+🔷 Frontend
+<p> <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black"> <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white"> <img src="https://img.shields.io/badge/Shadcn-000000?logo=shadcnui&logoColor=white"> </p>
+🔷 Cloud & Deployment
+<p> <img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?logo=oracle&logoColor=white"> <img src="https://img.shields.io/badge/Cloudflare%20R2-F38020?logo=cloudflare&logoColor=white"> <img src="https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=white"> <img src="https://img.shields.io/badge/WireGuard-88171A?logo=wireguard&logoColor=white"> </p>
+📊 GitHub Stats
+<p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=slymanmrcan&show_icons=true&theme=dark"> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=slymanmrcan&theme=dark"> </p>
+🔗 SMTechLab Network
 
-</p>
+Website: https://smtechlab.net
 
-<br>
-<br>
-<p align="center">
-  <img width="50%" src="https://github-readme-stats-five-topaz-76.vercel.app/api?username=onuralpszr&show_icons=true&theme=dark" alt="Onuralp's GitHub stats"></img>
-  <img width="50%" src="https://ghstats.onuralpsezer.com/?user=onuralpszr&theme=dark&hide_border=false" alt="Onuralp's GitHub Streak stats"></img>
-</p>
+GitHub Orgs: @smtechlabteam • @BKT-DevOps
 
-Here is my Arsenal Tools and Skills I use;
+Email: info@smtechlab.net
 
-<h3 align="left">Programming</h3>
-<p>
-    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white"></img>
-    <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-%23E34F26.svg?logo=Kotlin&logoColor=white"></img>
-    <img alt="Dart" src="https://img.shields.io/badge/Dart-00979D?logo=dart&logoColor=white"></img>
-    <img alt="cpp" src="https://img.shields.io/badge/++-2391E6.svg?logo=C&logoColor=white"></img>
-    <img alt="c" src="https://img.shields.io/badge/-2391E6.svg?logo=C&logoColor=white"></img>
-    <img alt="GNU Bash" src="https://img.shields.io/badge/GNU Bash-4EAA25.svg?logo=gnubash&logoColor=white"></img>
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></img>
-    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?logo=typescript&logoColor=white"></img>
-    <img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></img>
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></img>
-    <img alt="Rust" src="https://img.shields.io/badge/Rust-%23000000.svg?logo=rust&logoColor=white"></img>
+🧭 Philosophy
 
-</p>
-
-<h3 align="left">Backend-as-a-Service (Baas)</h3>
-<p>
-   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28.svg?logo=Firebase&logoColor=white"></img>
-      <img alt="Appwrite" src="https://img.shields.io/badge/Appwrite-F02E65.svg?logo=Appwrite&logoColor=white"></img>
-</p>
-
-<h3 align="left">Web Servers</h3>
-<p>
-   <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639.svg?logo=Nginx&logoColor=white"></img>
-   <img alt="Apache" src="https://img.shields.io/badge/Apache-D22128.svg?logo=Apache&logoColor=white"></img>
-   <img alt="Traefik" src="https://img.shields.io/badge/Traefik-24A1C1.svg?logo=Traefik-Proxy&logoColor=white"></img>
-</p>
-
-<h3 align="left">Framework & Libraries</h3>
-<p>
-  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688.svg?logo=FastAPI&logoColor=white"></img>
-  <img alt="Django" src="https://img.shields.io/badge/Django-006400.svg?logo=Django&logoColor=white"></img>
-  <img alt="Django Rest Framework" src="https://img.shields.io/badge/Django%20Rest%20Framework%20-%23404d59.svg?logo=django&logoColor=white"></img>
-  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white"></img>
-  <img alt="Angular" src="https://img.shields.io/badge/Angular%20-%2320232a.svg?logo=angular&logoColor=red"></img>
-  <img alt="Qt" src="https://img.shields.io/badge/Qt-006400.svg?logo=Qt&logoColor=white"></img>
-  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-2391E6.svg?logo=Flutter&logoColor=white"></img>
-  <img alt="Android" src="https://img.shields.io/badge/Android-7AFF33.svg?logo=Android&logoColor=black"></img>
-  <img alt="Tensorflow" src="https://img.shields.io/badge/Tensorflow-v2-FE7A16.svg?logo=Tensorflow&logoColor=white"></img>
-  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?logo=PyTorch&logoColor=white"></img>
-  <img alt="PyTorch" src="https://img.shields.io/badge/TorchVision-EE4C2C.svg?logo=PyTorch&logoColor=white"></img>
-  <img alt="PyTorch" src="https://img.shields.io/badge/TorchAudio-EE4C2C.svg?logo=PyTorch&logoColor=white"></img>
-  <img alt="Onnx" src="https://img.shields.io/badge/Onnx-717272.svg?logo=Onnx&logoColor=white"></img>
-  <img alt="Onnx-runtime" src="https://img.shields.io/badge/OnnxRuntime-717272.svg?logo=Onnx&logoColor=white"></img>
-  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-2391E6.svg?logo=OpenCV&logoColor=white"></img>
-  <img alt="Mediapipe" src="https://img.shields.io/badge/Mediapipe-008F9E.svg?&logoColor=white"></img>
-   <a href="#"><img alt="luxonis-depthai-core" src="https://img.shields.io/badge/Depthai-Core-4E26DA.svg?logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+CjxzdmcKICAgdmVyc2lvbj0iMS4xIgogICB2aWV3Qm94PSIwIDAgMTI4LjQ2MDAxIDExMi43MyIKICAgeG1sOnNwYWNlPSJwcmVzZXJ2ZSIKICAgaWQ9InN2ZzI0IgogICBzb2RpcG9kaTpkb2NuYW1lPSJsb2dvX3N5bWJvbC5zdmciCiAgIGlua3NjYXBlOmV4cG9ydC1maWxlbmFtZT0iXFx3c2wkXFVidW50dS0yMC4wNFxob21lXGphbmNpYnVsa2FcZGV2XHdlYnNpdGVccHVibGljXGFzc2V0c1xtYXJrZXRpbmdcYnJhbmRcbG9nby53ZWJwIgogICBpbmtzY2FwZTpleHBvcnQteGRwaT0iOTYiCiAgIGlua3NjYXBlOmV4cG9ydC15ZHBpPSI5NiIKICAgaW5rc2NhcGU6dmVyc2lvbj0iMS4xLjIgKGI4ZTI1YmU4MzMsIDIwMjItMDItMDUpIgogICB3aWR0aD0iMTI4LjQ2MDAxIgogICBoZWlnaHQ9IjExMi43MyIKICAgeG1sbnM6aW5rc2NhcGU9Imh0dHA6Ly93d3cuaW5rc2NhcGUub3JnL25hbWVzcGFjZXMvaW5rc2NhcGUiCiAgIHhtbG5zOnNvZGlwb2RpPSJodHRwOi8vc29kaXBvZGkuc291cmNlZm9yZ2UubmV0L0RURC9zb2RpcG9kaS0wLmR0ZCIKICAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICB4bWxuczpzdmc9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48ZGVmcwogICBpZD0iZGVmczI4Ij4KCgoKCgoKCgoKICA8L2RlZnM+PHNvZGlwb2RpOm5hbWVkdmlldwogICBpZD0ibmFtZWR2aWV3MjYiCiAgIHBhZ2Vjb2xvcj0iI2ZmZmZmZiIKICAgYm9yZGVyY29sb3I9IiM2NjY2NjYiCiAgIGJvcmRlcm9wYWNpdHk9IjEuMCIKICAgaW5rc2NhcGU6cGFnZXNoYWRvdz0iMiIKICAgaW5rc2NhcGU6cGFnZW9wYWNpdHk9IjAuMCIKICAgaW5rc2NhcGU6cGFnZWNoZWNrZXJib2FyZD0iMCIKICAgc2hvd2dyaWQ9ImZhbHNlIgogICBpbmtzY2FwZTp6b29tPSIyLjgzNTU0ODIiCiAgIGlua3NjYXBlOmN4PSI3MS45NDM3NiIKICAgaW5rc2NhcGU6Y3k9IjU2LjI1MDE0NiIKICAgaW5rc2NhcGU6d2luZG93LXdpZHRoPSIxOTIwIgogICBpbmtzY2FwZTp3aW5kb3ctaGVpZ2h0PSIxMDAxIgogICBpbmtzY2FwZTp3aW5kb3cteD0iLTkiCiAgIGlua3NjYXBlOndpbmRvdy15PSItOSIKICAgaW5rc2NhcGU6d2luZG93LW1heGltaXplZD0iMSIKICAgaW5rc2NhcGU6Y3VycmVudC1sYXllcj0ic3ZnMjQiCiAgIGlua3NjYXBlOnNob3dwYWdlc2hhZG93PSJ0cnVlIgogICBmaXQtbWFyZ2luLXRvcD0iMCIKICAgZml0LW1hcmdpbi1sZWZ0PSIwIgogICBmaXQtbWFyZ2luLXJpZ2h0PSIwIgogICBmaXQtbWFyZ2luLWJvdHRvbT0iMCIgLz4KICA8c3R5bGUKICAgdHlwZT0idGV4dC9jc3MiCiAgIGlkPSJzdHlsZTIiPgogICAgLnN0MCB7CiAgICAgIGZpbGw6ICM1NzI0RTg7CiAgICB9CiAgPC9zdHlsZT4KICA8ZwogICBpZD0iZzY4MSIKICAgY2xpcC1wYXRoPSJub25lIgogICB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtMC41LC0yNy45NykiPjxwYXRoCiAgICAgY2xhc3M9InN0MCIKICAgICBkPSJtIDcyLjYsMTE5LjA1IGMgLTE5LjE0LDAgLTM0LjcxLC0xNS41NyAtMzQuNzEsLTM0LjcyIDAsLTE5LjE0IDE1LjU3LC0zNC43MSAzNC43MSwtMzQuNzEgMTkuMTQsMCAzNC43MSwxNS41NyAzNC43MSwzNC43MSAwLjAxLDE5LjE0IC0xNS41NywzNC43MiAtMzQuNzEsMzQuNzIgbSAwLC05MS4wOCBjIC0yNy40MiwwIC01MC4yNiwxOS41OSAtNTUuMzEsNDUuNTQgSCAwLjUgdiAyMS42NSBoIDE2Ljc5IGMgNS4wNSwyNS45NSAyNy44OSw0NS41NCA1NS4zMSw0NS41NCAzMS4xMywwIDU2LjM2LC0yNS4yMyA1Ni4zNiwtNTYuMzYgMCwtMzEuMTMgLTI1LjIzLC01Ni4zNyAtNTYuMzYsLTU2LjM3IgogICAgIGlkPSJwYXRoMTgiIC8+PHBhdGgKICAgICBjbGFzcz0ic3QwIgogICAgIGQ9Im0gNzIuNiw4Ny4wOSBjIC0xLjUyLDAgLTIuNzYsLTEuMjQgLTIuNzYsLTIuNzYgMCwtMS41MiAxLjI0LC0yLjc2IDIuNzYsLTIuNzYgMS41MiwwIDIuNzYsMS4yNCAyLjc2LDIuNzYgMCwxLjUyIC0xLjI0LDIuNzYgLTIuNzYsMi43NiBtIDAsLTEzLjU3IGMgLTUuOTcsMCAtMTAuODEsNC44NCAtMTAuODEsMTAuODEgMCw1Ljk3IDQuODQsMTAuODEgMTAuODEsMTAuODEgNS45NywwIDEwLjgxLC00Ljg0IDEwLjgxLC0xMC44MSAwLC01Ljk3IC00Ljg0LC0xMC44MSAtMTAuODEsLTEwLjgxIgogICAgIGlkPSJwYXRoMjAiIC8+PC9nPgo8L3N2Zz4K"></a>
-</p>
-
-<h3 align="left">Game Engines</h3>
-<p>
-    <img alt="Unity" src="https://img.shields.io/badge/Unity%20-%2320232a.svg?logo=unity&logoColor=white"></img>
-    <img alt="UnrealEngine" src="https://img.shields.io/badge/UnrealEngine%20-%2320232a.svg?logo=UnrealEngine&logoColor=white"></img>
-    <img alt="Godotengine" src="https://img.shields.io/badge/Godotengine-478CBF.svg?logo=Godotengine&logoColor=white"></img>
-
-</p>
-
-<h3 align="left">Databases</h3>
-<p>
-    <a href="#"><img alt="PostgreSql" src="https://img.shields.io/badge/PostgreSql-4169E1?logo=postgresql&logoColor=white"></a>
-    <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-003B57.svg?logo=sqlite&logoColor=white"></a>
-    <a href="#"><img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?logo=MySQL&logoColor=white"></a>
-    <a href="#"><img alt="MariaDB" src ="https://img.shields.io/badge/MariaDB-003545.svg?logo=MariaDB&logoColor=white"></a>
-</p>
-
-<h3 align="left">VPN Servers</h3>
-<p>
-    <a href="#"><img alt="WireGuard" src="https://img.shields.io/badge/WireGuard-88171A?logo=WireGuard&logoColor=white"></a>
-    <a href="#"><img alt="OpenVPN" src="https://img.shields.io/badge/OpenVPN-EA7E20?logo=OpenVPN&logoColor=white"></a>
-</p>
-
-<h3 align="left">Virtualization Platforms</h3>
-<p>
-    <a href="#"><img alt="QEMU" src="https://img.shields.io/badge/QEMU-FF6600?logo=QEMU&logoColor=white"></a>
-    <a href="#"><img alt="VirtualBox" src="https://img.shields.io/badge/VirtualBox-183A61?logo=VirtualBox&logoColor=white"></a>
-    <a href="#"><img alt="VMware" src="https://img.shields.io/badge/VMware-607078?logo=VMware&logoColor=white"></a>
-    <a href="#"><img alt="VMwareESXI" src="https://img.shields.io/badge/VMware ESXI-607078?logo=VMware&logoColor=white"></a>
-</p>
-
-<h3 align="left">Software and tools</h3>
-<p>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="Meson" src="https://img.shields.io/badge/Meson%20-%2391E6.svg?logo=Meson&logoColor=white"></a>
-    <a href="#"><img alt="Cmake" src="https://img.shields.io/badge/Cmake-064F8C.svg?logo=Cmake&logoColor=white"></a>
-    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2391E6.svg?logo=docker&logoColor=white"></img></a>
-    <a href="#"><img alt="Podman" src="https://img.shields.io/badge/Podman-892CA0.svg?logo=Podman&logoColor=white"></img></a>
-    <a href="#"><img alt="Dependabot" src="https://img.shields.io/badge/Dependabot-025E8C.svg?logo=Dependabot&logoColor=white"></img></a>
-    <a href="#"><img alt="Nvidia" src="https://img.shields.io/badge/Nvidia-76B900.svg?logo=Nvidia&logoColor=white"></img></a>
-    <a href="#"><img alt="LLVM" src="https://img.shields.io/badge/LLVM-262D3A.svg?logo=LLVM&logoColor=white"></img></a>
-    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
-    <a href="#"><img alt="Conventional Commits" src="https://img.shields.io/badge/Conventional Commits-FE5196?logo=conventionalcommits&logoColor=white"></a>
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-StackOverflow-F58025?logo=stack-overflow&logoColor=white"></a>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-    <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?logo=pycharm&logoColor=white"></a>
-    <a href="#"><img alt="Clion" src="https://img.shields.io/badge/Clion-1AC69B.svg?logo=Clion&logoColor=white"></a>
-    <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android Studio-3DDC84.svg?logo=androidstudio&logoColor=white"></a>
-    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/JupyterNotebook-F37626.svg?logo=Jupyter&logoColor=white"></a>
-    <a href="#"><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-2391E6.svg?logo=Kubernetes&logoColor=white"></a>
-    <a href="#"><img alt="Blender" src="https://img.shields.io/badge/Blender-F5792A.svg?logo=Blender&logoColor=white"></a>
-    <a href="#"><img alt="GithubActions" src="https://img.shields.io/badge/Github Actions-2088FF.svg?logo=githubactions logoColor=white"></a>
-    <a href="#"><img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-44A833.svg?logo=Anaconda&logoColor=white"></a>
-    <a href="#"><img alt="Ansible" src="https://img.shields.io/badge/Ansible-EE0000.svg?logo=Ansible&logoColor=white"></a>
-</p>
-
-<h3 align="left">Linux Distributions</h3>
-<p>
-    <a href="#"><img alt="Fedora" src="https://img.shields.io/badge/Fedora-51A2DA.svg?logo=fedora&logoColor=white"></a>
-    <a href="#"><img alt="CentOS" src="https://img.shields.io/badge/CentOS-262577.svg?logo=CentOS&logoColor=white"></a>
-    <a href="#"><img alt="RHEL" src="https://img.shields.io/badge/RHEL-EE0000.svg?logo=redhat&logoColor=white"></a>
-    <a href="#"><img alt="OpenSUSE" src="https://img.shields.io/badge/OpenSUSE-73BA25.svg?logo=OpenSUSE&logoColor=white"></a>
-    <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-FE7A16.svg?logo=Ubuntu&logoColor=white"></a>
-    <a href="#"><img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33.svg?logo=Debian&logoColor=white"></a>
-</p>
-
-<h3 align="left">Platforms</h3>
-<p>
-    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-%23F7DF1E.svg?logo=Linux&logoColor=black"></a>
-    <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-%2391E6.svg?logo=Windows&logoColor=white"></a>
-    <a href="#"><img alt="OSX" src="https://img.shields.io/badge/Mac-OSX-%23E34F26.svg?logo=Apple&logoColor=white"></a>
-</p>
-
-<h3 align="left">Cloud Providers</h3>
-<p>
-    <a href="#"><img alt="Amazon AWS" src="https://img.shields.io/badge/AmazonAWS-232F3E.svg?logo=amazonaws&logoColor=white"></a>
-    <a href="#"><img alt="Azure" src="https://img.shields.io/badge/AzureCloud-232F3E.svg?logo=azuredevops&logoColor=white"></a>
-    <a href="#"><img alt="Google Cloud" src="https://img.shields.io/badge/Google-Cloud-4285F4.svg?logo=googlecloud&logoColor=white"></a>
-</p>
-
-## Current project(s) I'm working/worked on
-
-- [Ultralytics](https://github.com/ultralytics/ultralytics)
-- [ExecuTorch](https://github.com/pytorch/executorch)
-- [Yolo-World](https://github.com/AILab-CVC/YOLO-World)
-- [Supervision](https://github.com/roboflow/supervision)
-- [Supervision Conda Forge](https://github.com/conda-forge/supervision-feedstock)
-- [GFPGAN-ncnn-vulkan](https://github.com/onuralpszr/GFPGAN-ncnn-vulkan)
-- [CvCamera-Mobile](https://github.com/onuralpszr/CvCamera-Mobile)
-- [Sceneview-android](https://github.com/SceneView/sceneview-android)
-- [Sceneform-android from Sceneview Team](https://github.com/SceneView/sceneform-android)
-- [Nvidia Auto Installer](https://github.com/t0xic0der/nvidia-auto-installer-for-fedora)
-
-
-## Useful links
-
-If you want to stay in touch with me, these links can be useful.
-
-- [LinkedIn](https://www.linkedin.com/in/osezer/)
-- [AskFedora account](https://ask.fedoraproject.org/u/thunderbirdtr/)
-- [Twitter](https://twitter.com/onuralpszr)
-- [Fedora Pagure Account](https://pagure.io/user/thunderbirdtr)
-- [Src.Fedora Account](https://src.fedoraproject.org/user/thunderbirdtr/)
-- [Credly](https://www.credly.com/users/onuralp-sezer/badges)
-- [Google Developer Account](https://developers.google.com/profile/u/onuralpsezer)
-- [Personal Fedora wiki page](https://fedoraproject.org/wiki/User:Thunderbirdtr)
-- [Fedora Contribution Badges](https://badges.fedoraproject.org/user/thunderbirdtr)
-- [Google Cloud Skill Boost Profile](https://www.cloudskillsboost.google/public_profiles/aa921c43-e963-4266-aa26-e7465dab9aec)
-- [HuggingFace](https://huggingface.co/onuralpszr)
-
-## Certifcations
-
-- [Tensorflow Developer](https://www.credential.net/5d4c2d99-4c0b-4990-9399-2bdb496f7d4f#gs.axwujf)
-- [HuggingFace Agents Course](https://cdn-lfs-us-1.hf.co/repos/f2/34/f2344151f60f6027c436821dc61cf3f27a46435de57df8df50ad02b5acca7c07/0d9e4191750a428ab9d6467196276e0801759a1a59c2fd43b7478a4fac38067e?response-content-disposition=inline%3B+filename*%3DUTF-8%27%272025-02-11.png%3B+filename%3D%222025-02-11.png%22%3B&response-content-type=image%2Fpng&Expires=1742677783&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0MjY3Nzc4M319LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy11cy0xLmhmLmNvL3JlcG9zL2YyLzM0L2YyMzQ0MTUxZjYwZjYwMjdjNDM2ODIxZGM2MWNmM2YyN2E0NjQzNWRlNTdkZjhkZjUwYWQwMmI1YWNjYTdjMDcvMGQ5ZTQxOTE3NTBhNDI4YWI5ZDY0NjcxOTYyNzZlMDgwMTc1OWExYTU5YzJmZDQzYjc0NzhhNGZhYzM4MDY3ZT9yZXNwb25zZS1jb250ZW50LWRpc3Bvc2l0aW9uPSomcmVzcG9uc2UtY29udGVudC10eXBlPSoifV19&Signature=oTIv5lnswS3gCi9vW1KBG1bh6zBcMwRkj3mQE-ILNTSFf-OuW1s6pnptNlPJaZJCOwBhUDA%7EdEmzMaEHSxzKVNnvIB558b0T2KUEVj1j5X1ilD2Q81iIgWqr%7EI82X-PpJogDkj6OaKpWthOhclfuwUj2nATtP5ajjZEyG-U2VSTpcfUVwRZc-rmplzAJqTF-mxkZduQlTnyIvL3x9KATmcY1YkWPrZ%7E0se18EDbOZt4OxWynOVBkL-KXVoORzJc9ISZ1LPNRrEmMxGo3lMpg8UeT7C%7EhdlSrLtBkZDtYGYpPl0mGIPBLDUBfsNC3KXUM-wfco9%7E5a7i8iNI%7EgasL9w__&Key-Pair-Id=K24J24Z295AEI9)
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-
-[![@osezer's Holopin board](https://holopin.me/osezer)](https://holopin.io/@osezer)
-
-## Mentorship Programs
-
-- [Outreachy](https://github.com/outreachy)
-- [OpenTR](https://github.com/OpenTRFoundation/OpenTR)
-
-## Volunteer Work
-
-- [Fedora Project Contributor](https://fedoraproject.org/wiki/User:Thunderbirdtr)
-- [Google Developer Group Samsun Member/Speaker/Organizer](https://gdg.community.dev/gdg-samsun/)
-- [GDG Samsun](https://gdgsamsun.org/)
+Simple systems scale.
+Automated systems survive.
+Clean architectures win.
