@@ -2,7 +2,7 @@ Suleyman Mercan — Full-Stack Developer & DevOps Engineer
 <p align="center"> <a href="https://github.com/slymanmrcan"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=2000&color=4A71D9&center=true&vCenter=true&width=520&lines=Welcome+to+SMTechLab+Ecosystem;Full-Stack+Developer+%7C+DevOps+Engineer;Next.js+%7C+.NET+%7C+Terraform+%7C+Cloudflare+%7C+Oracle+ARM" /> </a> </p> <p align="center"> <a><img alt="GitHub Followers" src="https://img.shields.io/github/followers/slymanmrcan?style=for-the-badge"></a> <a><img alt="GitHub Stars" src="https://img.shields.io/github/stars/slymanmrcan?style=for-the-badge"></a> <a href="https://www.linkedin.com"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a> </p>
 🚀 Who Am I?
 
-Ben Suleyman, nam-ı diğer Efendimiz:
+Ben Suleyman,
 SaaS platformları, DevOps otomasyonları ve kendi markam olan SMTechLab ekosistemini oluşturan full-stack bir geliştiriciyim.
 
 Profesyonel ilgi alanlarım:
@@ -63,7 +63,7 @@ WireGuard, Mattermost, Jitsi, Nextcloud, Revolt, Home Assistant, Pi-hole, vs.
 
 Website: https://smtechlab.net
 
-GitHub Orgs: @smtechlabteam • @BKT-DevOps
+GitHub Orgs: @smtechlabteam • 
 
 Email: info@smtechlab.net
 
