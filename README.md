@@ -30,11 +30,6 @@ Backend + Frontend + DevOps + Cloud + Automation tek bir dairede birleşen mimar
 ASP.NET Core 8 • PostgreSQL • Redis • Clean Architecture • Role-based Access
 → Çok katmanlı kurumsal backend sistemi.
 
-🔹 Feedback App (Full Stack)
-
-Next.js 15 • Shadcn • TypeScript • Tailwind
-→ Multi-mode feedback SaaS platformu.
-
 🔹 Admin Template Starter (Next.js 15)
 
 Kurumsal paneller için production-grade admin template.
