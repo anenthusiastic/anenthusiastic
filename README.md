@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=2000&color=4A71D9&center=true&vCenter=true&width=520&lines=Backend+Developer+%7C+DevOps+Engineer;Clean+Architecture+%7C+CI%2FCD+%7C+Cloud+Deployments" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=2000&color=4A71D9&center=true&vCenter=true&width=520&lines=.NET+Core+Backend+Developer;Docker+%7C+Linux+%7C+CI%2FCD;Clean+Architecture+%7C+API+Design" />
 </p>
 Merhaba, ben Süleyman.  
 Ağırlıklı olarak **.NET Core** ile backend geliştiren, yanında **Docker**, **Linux**, **CI/CD** ve **bulut tabanlı dağıtım** konularına ilgi duyan bir geliştiriciyim.
@@ -15,16 +15,11 @@ Ağırlıklı olarak **.NET Core** ile backend geliştiren, yanında **Docker**,
 
 Kısacası: **Backend odaklı, DevOps pratikleriyle desteklenmiş sade bir yazılım geliştirme yaklaşımı.**
 
-
-
-
 <p align="center">
   <a><img alt="GitHub Followers" src="https://img.shields.io/github/followers/slymanmrcan?style=for-the-badge"></a>
   <a><img alt="GitHub Stars" src="https://img.shields.io/github/stars/slymanmrcan?style=for-the-badge"></a>
   <a href="https://www.linkedin.com"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
-
-
 
 ## 📊 GitHub Stats  
 
