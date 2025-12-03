@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=2000&color=4A71D9&center=true&vCenter=true&width=520&lines=Backend+Developer+%7C+DevOps+Engineer;Clean+Architecture+%7C+CI%2FCD+%7C+Cloud+Deployments" />
+</p>
 Merhaba, ben Süleyman.  
 Ağırlıklı olarak **.NET Core** ile backend geliştiren, yanında **Docker**, **Linux**, **CI/CD** ve **bulut tabanlı dağıtım** konularına ilgi duyan bir geliştiriciyim.
 
