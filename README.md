@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=2000&color=4A71D9&center=true&vCenter=true&width=520&lines=Spring+Boot+&+.NET+Core+Backend+Developer;Docker+%7C+Linux+%7C+CI%2FCD;Clean+Architecture+%7C+API+Design" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=2000&color=4A71D9&center=true&vCenter=true&width=520&lines=Spring+Boot+.NET+Core+Backend+Developer;Docker+%7C+Linux+%7C+CI%2FCD;Clean+Architecture+%7C+API+Design" />
 </p>
 Merhaba, ben Fatih.
 Ağırlıklı olarak  **Spring Boot** ve **.NET Core** ile backend geliştiren, yanında **Docker**, **Linux**, **System Design**, **Software Architecture** ve **Domain Driven Design** konularına ilgi duyan bir geliştiriciyim.
